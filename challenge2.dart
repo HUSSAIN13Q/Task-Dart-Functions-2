@@ -58,7 +58,7 @@ int squareOrDouble(int n) {
   }else{
     return n*2;
   }
-
+}
   void main(){
 
     greet("hussain");
@@ -68,4 +68,4 @@ int squareOrDouble(int n) {
 
 
   }
-}
+
